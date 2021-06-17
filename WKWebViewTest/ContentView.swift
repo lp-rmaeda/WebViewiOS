@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        WebView(url: "https://ts-apac-rmaeda.s3.amazonaws.com/html/dflow_web.html")
+        WebView(url: "https://ts-apac-rmaeda.s3.amazonaws.com/html/dflow_web_embedded.html")
     }
 }
 
